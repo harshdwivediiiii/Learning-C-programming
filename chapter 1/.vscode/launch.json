@@ -8,13 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-<<<<<<< HEAD
-      "cwd": "c:/Users/Harshvardhan Dwivedi/C programming tutorial/chapter 3",
-      "program": "c:/Users/Harshvardhan Dwivedi/C programming tutorial/chapter 3/build/Debug/outDebug",
-=======
-      "cwd": "c:/Users/Harshvardhan Dwivedi/New folder",
-      "program": "c:/Users/Harshvardhan Dwivedi/New folder/build/Debug/outDebug",
->>>>>>> 5a5387368c2d86cf4282977dff2cb67cb5418f06
+      "cwd": "c:/Users/Harshvardhan Dwivedi/C programmung tutorial/chapter 1",
+      "program": "c:/Users/Harshvardhan Dwivedi/C programmung tutorial/chapter 1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
