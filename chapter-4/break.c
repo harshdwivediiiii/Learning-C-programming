@@ -8,8 +8,8 @@ int main() {
         scanf("%d", &n);
         printf("%d\n", n);
 
-        if (n % 2 != 0) {
-            break;   // stop when odd number is entered
+        if (n % 7 == 0) {
+            break;   // stop when multiple of 7 is entered
         }
 
     } while (1);
