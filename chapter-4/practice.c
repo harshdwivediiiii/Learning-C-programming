@@ -1,11 +1,9 @@
 #include <stdio.h>
 int main() {
-   int n;
-    printf("Enter a number: ");
-    scanf("%d", &n);
-
-    for (int i = 1; i <= 10; i++) {
-        printf("%d x %d = %d\n", n, i, n * i);
+   int sum =0;
+   for (int i=5; i<=50; i++) {
+       sum += i;
     }
+    printf("Sum of numbers from 5 to 50 is: %d\n", sum);
     return 0;
 }
